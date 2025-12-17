@@ -1,4 +1,8 @@
 public class WelcomeView {
-    System.out.println("Test");
-    moreChanges = 1;
+    WelcomeView () {
+        System.out.println("Test");
+        int moreChanges = 1;
+        String TungTungTungTungTungTungTungTungSahur;
+    }
+
 }
