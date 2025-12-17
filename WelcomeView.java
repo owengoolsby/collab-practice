@@ -5,6 +5,7 @@ public class WelcomeView {
         String TungTungTungTungTungTungTungTungSahur;
         String Owen;
         Owen = "fat";
+        int test = 1;
     }
 
 }
